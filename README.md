@@ -1,6 +1,7 @@
 ### A Solutions Architect certified from AWS, Hashicorp Terraform & Oracle  Cloud Infraestructure
 
-
+  ##
+  
 SRE & Analista de Cloud com foco em implementação de soluções em ambientes da AWS. Profundo conhecimento em Docker, AWS, Terraform, Kubernetes, e Ansible. Ao longo dos meus estudos desenvolvi ambientes em nuvem, otimizando recursos, melhorando a eficiência operacional e garantindo a segurança dos dados.
 
 
@@ -16,15 +17,13 @@ SRE & Analista de Cloud com foco em implementação de soluções em ambientes d
   <img align="center" alt="Paulo-prom" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
   <img align="center" alt="Paulo-lINUX" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
-
-
-
-  
-
 </div>
+
+  ##
+  
+<div> 
+  <a href = "mailto:paulo.odbcontato2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-h-nascimento-0250a721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 **paulodisfarce/paulodisfarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
