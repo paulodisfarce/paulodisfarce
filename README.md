@@ -1,4 +1,4 @@
-### A Solutions Architect certified from AWS, Hashicorp Terraform & Oracle  Cloud Infraestructure
+### A Solutions Architect / DevOps / Site Reliability Engineering
 
   ##
   
