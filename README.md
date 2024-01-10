@@ -1,4 +1,4 @@
-### Solutions Architect certified from AWS, Hashicorp Terraform & Oracle  Cloud Infraestructure
+### A Solutions Architect certified from AWS, Hashicorp Terraform & Oracle  Cloud Infraestructure
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
