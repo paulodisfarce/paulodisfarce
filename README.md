@@ -1,9 +1,8 @@
-### Solutions Architect - Site Reliability Engineering - DevOps
+### Solutions Architect - Site Reliability Engineering
 
   ##
   
-SRE & Analista de Cloud com foco em implementação de soluções em ambientes da AWS. Profundo conhecimento em Docker, AWS, Terraform, Kubernetes, e Ansible. Ao longo dos meus estudos desenvolvi ambientes em nuvem, otimizando recursos, melhorando a eficiência operacional e garantindo a segurança dos dados.
-
+SRE & Cloud Analyst specializing in implementing solutions in AWS environments. Deep expertise in Docker, AWS, Terraform, Kubernetes, and Ansible. Throughout my studies, I have developed cloud environments, optimizing resources, enhancing operational efficiency, and ensuring data security.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
