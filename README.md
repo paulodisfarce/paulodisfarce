@@ -44,7 +44,6 @@ SRE & Cloud Analyst specializing in implementing solutions in AWS, Azure & OCI e
   <a href="https://www.linkedin.com/in/paulo-h-nascimento-0250a721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
 
 
 <!--
