@@ -17,7 +17,7 @@ SRE & Cloud Analyst specializing in implementing solutions in AWS, Azure & OCI e
   <img align="center" alt="Paulo-docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Paulo-grafana" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Paulo-prom" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
-  <img align="center" alt="Paulo-lINUX" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">">
+  <img align="center" alt="Paulo-lINUX" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 
 </div>
