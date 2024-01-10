@@ -1,4 +1,4 @@
-### A Solutions Architect / DevOps / Site Reliability Engineering
+### Solutions Architect - Site Reliability Engineering - DevOps
 
   ##
   
