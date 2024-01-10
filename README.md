@@ -1,10 +1,10 @@
 ### 
-<h3 align="center">I am a Brazilian Solutions Architect and Site Reliability Engineer (SRE) with expertise in multi-cloud environments, specializing in optimization.</h3>
+<h3 align="center">I am a brazilian Solutions Architect and Site Reliability Engineer (SRE) with expertise in multi-cloud environments, specializing in optimization.</h3>
 
 
   ##
   
-SRE & Cloud Analyst specializing in implementing solutions in AWS, Azure & OCI environments. Deep expertise in Docker, Terraform, Kubernetes, and Ansible. Throughout my studies, I have developed multi-cloud environments, optimizing resources, enhancing operational efficiency, and ensuring data security.
+SRE & Cloud Analyst specializing in implementing solutions in AWS, Azure & OCI environments. Deep expertise in Docker, Terraform, Kubernetes, and Ansible. Throughout my studies, i have developed multi-cloud environments, optimizing resources, enhancing operational efficiency, and ensuring data security.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,6 +27,8 @@ SRE & Cloud Analyst specializing in implementing solutions in AWS, Azure & OCI e
 <h3> Certifications:</h3>
 
 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/2019aea7-dd3d-4688-9503-c0fc288d72be)
+
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/22c13fd3-1d30-4e46-9968-8e1aca04324e)
 
 [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/d18a0bb2-f725-46d7-92e3-b797feda2a91)
 
